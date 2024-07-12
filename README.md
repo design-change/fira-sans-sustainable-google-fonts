@@ -20,14 +20,14 @@ fira sans re-design for ink & paper usage optimization • ryman eco project ins
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
 
-fira sans re-design for ink & paper usage optimization • ryman eco project inspired • inline font with original way for extra reduction & kerning optimization in case • humanistic design to improve readability, narrow enough to reduce the number of printed pages, with high readability when optimisation is also a reduction in text size • enjoy free
+fira sans re-design for ink & paper usage optimization • ryman eco project inspired • inline font with original way for extra reduction & kerning optimization in case • humanistic design to improve readability, narrow enough to reduce the number of printed pages, with high readability when optimisation is also a reduction in text size •
 
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
 
 ## About
 
-fira sans re-design for ink & paper usage optimization • ryman eco project inspired • inline font with original way for extra reduction & kerning optimization in case • humanistic design to improve readability, narrow enough to reduce the number of printed pages, with high readability when optimisation is also a reduction in text size • enjoy free
+fira sans re-design for ink & paper usage optimization • ryman eco project inspired • inline font with original way for extra reduction & kerning optimization in case • humanistic design to improve readability, narrow enough to reduce the number of printed pages, with high readability when optimisation is also a reduction in text size •
 
 ## Building
 
