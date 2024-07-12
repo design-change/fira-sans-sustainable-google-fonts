@@ -63,7 +63,7 @@ buildOTF: true
 # if you specify a dictionary which does not contain an entry
 # for each VF file built.
 stat:
-  RadioCanadaDisplay[wght].otf:
+  sustainable.otf:
   - name: Weight
     values:
     - name: Regular
