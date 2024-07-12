@@ -1,6 +1,6 @@
 ----
 
-## Setting up your font
+## Fira Sans Sustainable
 
 ### New repositories
 
