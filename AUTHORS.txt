@@ -5,3 +5,4 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
+szymon bujak-górski <designchange+98@proton.me>
